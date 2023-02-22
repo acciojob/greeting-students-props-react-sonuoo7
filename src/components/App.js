@@ -4,9 +4,7 @@ import Welcome from "./Welcome";
 
 const App = () => {
   return (
-    <div>
       <Welcome name="Jhon" />
-    </div>
   );
 };
 
